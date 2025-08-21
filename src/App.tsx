@@ -166,7 +166,7 @@ function App() {
             <div className="fade-in-delay-2">
               <div className="bg-gray-200 rounded-lg aspect-square overflow-hidden">
                 <img 
-                  src="/gitpage/altr.png" 
+                  src="/altr.png" 
                   alt="Bad example of a rude host" 
                   className="w-full h-full object-cover"
                 />
